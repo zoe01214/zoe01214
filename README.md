@@ -8,11 +8,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoe01214&show_icons=true&locale=en&layout=compact" alt="zoe01214" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoe01214&show_icons=true&locale=en" alt="zoe01214" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoe01214&" alt="zoe01214" /></p>
-
 <!--
 **zoe01214/zoe01214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
